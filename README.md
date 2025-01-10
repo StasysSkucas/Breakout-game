@@ -1,2 +1,2 @@
 # Breakout-game
-Breakout game
+run main.py to start the game
