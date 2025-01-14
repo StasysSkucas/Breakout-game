@@ -58,6 +58,7 @@ def draw_game():
     ball_group.draw(screen)
     draw_lives()
     draw_score()
+    game_manager.draw_game_start(screen)
     game_manager.draw_game_over(screen)
     pygame.display.update()
 
