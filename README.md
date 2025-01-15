@@ -4,9 +4,13 @@ Programmed using Pygame library
 Resolution = 960x540
 
 Description: Simple implementation of the Breakout pong game.
-Use A/D or Arrow_Left/Arrow_Right to move and SPACE to launch the ball.
+
+Controls: Use A/D or Arrow_Left/Arrow_Right to move and SPACE to launch the ball.
+
 Bricks have 3 damage levels - one broken brick is 100 points!
+
 You have 3 lives to break them all and win the game.
+
 Give it a try!
 
 To run: run python main.py to start the game
